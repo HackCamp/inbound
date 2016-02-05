@@ -49,7 +49,7 @@
 
 【住所】 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントの[FAQ](https://github.com/HackCamp/inbound/blob/master/FAQ.md）　もあわせてご確認ください。
+※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントの[[FAQ](https://github.com/HackCamp/inbound/blob/master/FAQ.md)もあわせてご確認ください。
 
 
 
